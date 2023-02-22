@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiPosRio</name>
+    </assembly>
+    <members>
+        <member name="P:WebApiPosRio.Models.SpViewModels.PruebaViewModel.numero">
+            <summary>  
+            Gets or sets Prueba ID property.  
+            </summary>  
+        </member>
+        <member name="P:WebApiPosRio.Models.SpViewModels.PruebaViewModel.texto">
+            <summary>  
+            Gets or sets to products list whose price is greater than equal to 1000 property.  
+            </summary>  
+        </member>
+        <member name="P:WebApiPosRio.Models.SpViewModels.PruebaViewModel.listaPrueba">
+            <summary>  
+            Gets or sets to products list whose price is greater than equal to 1000 property.  
+            </summary>  
+        </member>
+    </members>
+</doc>

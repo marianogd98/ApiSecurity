@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Dev\Seguridad\WebApiPosRio\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-04-01T12:54:14.6619672Z;True|2022-03-25T23:17:44.4679051-04:00;True|2022-03-11T10:49:37.2835199-04:00;False|2022-03-11T10:34:04.0770736-04:00;True|2022-03-08T09:22:10.9722171-04:00;True|2022-03-07T15:24:23.9319519-04:00;True|2022-03-03T08:52:53.4800802-04:00;True|2022-03-03T08:10:35.9676593-04:00;True|2022-02-28T13:33:35.9252920-04:00;True|2022-02-28T11:40:31.2981279-04:00;True|2022-02-28T10:58:23.5223643-04:00;True|2022-02-22T08:09:04.1966388-04:00;True|2022-02-21T15:19:09.7118172-04:00;True|2022-02-21T14:46:04.1292658-04:00;</History>
+  </PropertyGroup>
+</Project>
